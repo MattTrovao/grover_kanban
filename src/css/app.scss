@@ -1,0 +1,19 @@
+// app global css in SCSS form
+@import url('reset.scss');
+
+:root {
+    --primary-700: #240046ff;
+    --primary-600: #3c096cff;
+    --primary: #5a189aff;
+    --primary-400: #7b2cbfff;
+    --primary-300: #9d4eddff;
+
+    --secondary-700: #FF5C8A;
+    --secondary-600: #FF7096;
+    --secondary: #FF85A1;
+    --secondary-400: #FF99AC;
+    --secondary-300: #FBB1BD;
+
+    --transition: all ease-in-out .4s;
+}
+
